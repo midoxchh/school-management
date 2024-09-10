@@ -1,7 +1,7 @@
 export default function Home(){
     return(
         <>
-            <p>hello from homepage</p>
+            <h1 className={'text-3xl'}>hello from homepage</h1>
         </>
     )
 }
